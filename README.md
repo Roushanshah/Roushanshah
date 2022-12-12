@@ -43,7 +43,7 @@
 <br/>
 <img src="https://img.shields.io/github/followers/ankitmrmishra?style=social"></img>
 
-[![Roushan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Roushanshah&theme=dracula)](https://github.com/Roushanshah/github-readme-activity-graph)
+[![Roushan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Roushanshah&theme=dracula)](https://github.com/Roushanshah/github-readme-activity-graph)
 
 <a href="https://github.com/Roushanshah">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Roushanshah&show_icons=true&theme=tokyonight" />
