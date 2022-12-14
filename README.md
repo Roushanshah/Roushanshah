@@ -1,8 +1,8 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h2> Hey there! I'm Roushan Shah.</h2>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 ![Visitor Count](https://profile-counter.glitch.me/{Roushanshah}/count.svg)
 
@@ -12,6 +12,8 @@
 - 🎓 &nbsp; Studying Computer Science Engineering at Chandigarh Engineering College.
 - 🌱 &nbsp; Learning more about Android Development, Data Structure and Algorithm.
 <!-- - ✍️ &nbsp; Pursuing Blog Writing as hobby. Read my Blogs at <a href="https://hashnode.com/@ankitmishraexe">Ankit Mishra's Blog</a> -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -42,7 +44,7 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
  -->
 <br/>
-<img src="https://img.shields.io/github/followers/ankitmrmishra?style=social"></img>
+<img src="https://img.shields.io/github/followers/Roushanshah?style=social"></img>
 
 [![Roushan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Roushanshah&theme=dracula)](https://github.com/Roushanshah/github-readme-activity-graph)
 
