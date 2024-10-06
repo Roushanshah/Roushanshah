@@ -2,16 +2,20 @@
 <br><br>
 <h2> Hey there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px"> I'm Roushan Shah.</h2>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="250">
-<br><br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="250">
+</div>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3>👨🏻‍💻 About Me</h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science Engineering at Chandigarh Engineering College.
-- 🌱 &nbsp; Learning more about Android Development, Data Structure and Algorithm.
-- 👀 Full-stack developer specialization in MERN Stack.
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 Studying Computer Science Engineering at Chandigarh Engineering College.
+- 🌱 Learning more about Android Development, Data Structure, and Algorithm.
+- 👀 Specializing as a Full-stack developer with MERN Stack.
 - 💞️ Great team-worker, native problem-solver, passionate about software engineering.
+
+
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
